@@ -1,6 +1,6 @@
 module github.com/oppai/my3bet
 
-go 1.18
+go 1.27.3
 
 require fyne.io/fyne/v2 v2.1.4
 
